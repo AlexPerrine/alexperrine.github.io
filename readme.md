@@ -14,4 +14,7 @@ Welcome to my personal portfolio showcasing my work in data engineering, analyti
 - GitHub Pages
 - Snowflake, dbt, Airflow (Project content)
 
+## Acknowledgments
+- Template based on [Start Bootstrap Resume](https://github.com/startbootstrap/startbootstrap-resume), licensed under the MIT License.
+
 Visit the live site: [https://alexperrine.github.io/](https://alexperrine.github.io/)
